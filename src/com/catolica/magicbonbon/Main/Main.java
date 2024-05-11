@@ -7,8 +7,6 @@ import com.raylib.java.text.rText;
 import com.raylib.java.textures.Texture2D;
 import com.raylib.java.textures.rTextures;
 import com.raylib.java.text.Font;
-// hJhf92!j8)9*21
-
 import java.util.ArrayList;
 import java.util.Random;
 
