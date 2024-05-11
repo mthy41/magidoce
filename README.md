@@ -1,9 +1,9 @@
-## Folder Structure
+## Instalação
+Precisa do Raylib-J v0.5 que pode ser encontrado (aqui)[https://github.com/CreedVI/Raylib-J/releases/download/v0.5/Raylib-J.jar]
+Coloque o arquivo Raylib-J.jar dentro do diretório **lib**.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-- `bin`: the compiled output files
-- `assets`: the assets folder (duh)
+Use o comando 
+```
+javac -d bin src/**/*.java
 
-## Git
-The default git branch name is 'Master'
+```
