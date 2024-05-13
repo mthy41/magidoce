@@ -1,4 +1,4 @@
-package com.catolica.magicbonbon.Main;
+package com.catolica.magicbonbon.main;
 import com.raylib.java.Raylib;
 import com.raylib.java.core.Color;
 import com.raylib.java.core.rCore;
@@ -8,10 +8,7 @@ import com.raylib.java.textures.Texture2D;
 import com.raylib.java.textures.rTextures;
 import com.raylib.java.text.Font;
 import java.util.ArrayList;
-import java.util.Random;
-
 import com.catolica.magicbonbon.Model.Gen;
-
 import com.catolica.magicbonbon.Enums.Common;
 import com.catolica.magicbonbon.Enums.LojaCommons;
 import com.catolica.magicbonbon.Model.Generator;
