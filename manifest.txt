@@ -1,0 +1,2 @@
+Main-Class: com.catolica.magicbonbon.main.Main
+Class-Path: lib/Raylib-J.jar
